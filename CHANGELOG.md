@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/preritgarg23/demo-gitflow/compare/0.2.0...1.0.0) (2024-09-04)
+
+
+### ⚠ BREAKING CHANGES
+
+* add the file B ([#5](https://github.com/preritgarg23/demo-gitflow/issues/5))
+
+### Features
+
+* add the file B ([#5](https://github.com/preritgarg23/demo-gitflow/issues/5)) ([8354ebb](https://github.com/preritgarg23/demo-gitflow/commit/8354ebbfcef1b61711ec354742088db686c1937d))
+
 ## [0.2.0](https://github.com/preritgarg23/demo-gitflow/compare/v0.1.0...0.2.0) (2024-09-04)
 
 
